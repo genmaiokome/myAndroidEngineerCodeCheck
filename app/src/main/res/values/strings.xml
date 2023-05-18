@@ -1,5 +1,27 @@
 <resources>
     <string name="app_name">Android Engineer CodeCheck</string>
     <string name="searchInputText_hint">GitHub のリポジトリを検索できるよー</string>
-    <string name="written_language">Written in %s</string>
+    <string name="txtWrittenLanguage">Written in %s</string>
+    <string name="txtStars">%d stars</string>
+    <string name="txtWatchers">%d watchers</string>
+    <string name="txtForks">%d forks</string>
+    <string name="txtOpenIssues">%d open issues</string>
+    <string name="txtNameView">JetBrains/kotlin</string>
+    <string name="txtLanguageView">Written in Kotlin</string>
+    <string name="txtOpenIsueesView">131 open isuees</string>
+    <string name="txtStarsView">38530 stars</string>
+    <string name="watchersView">38530 watchers</string>
+    <string name="txtForksView">4675 forks</string>
+    <string name="strBlankMessage">文字を入力してください</string>
+    <string name="strNoResultMessage">検索結果がありませんでした。</string>
+    <string name="strIOExceptionMessage">入出力エラーが発生しました。</string>
+    <string name="strJSONxceptionMessage">JSONの解析中にエラーが発生しました。</string>
+    <string name="exceptionMessage">予期せぬエラーが発生しました。</string>
+    <string name="strLogTagSearchError">Search Error</string>
+    <string name="strNullProgressBarMessage">Search Error</string>
+    <string name="strLogProgressBarError">ProgressBar Error</string>
+    <string name="strURL">https://api.github.com/search/repositories</string>
+    <string name="strHeaderAccept">Accept</string>
+    <string name="strJsonForm">application/vnd.github.v3+json</string>
+    <string name="strHeaderQ">q</string>
 </resources>
